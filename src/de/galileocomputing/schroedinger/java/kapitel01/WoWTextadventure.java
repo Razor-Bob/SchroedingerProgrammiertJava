@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 
 /** 
  * 
- * @author Philip Ackermann
+ * @param args
  * 
  */
 public class WoWTextadventure {
