@@ -11,7 +11,7 @@ public class AusgabenRaetsel {
 		System.out.println(zahl = (zahl - 9) / 8); // 7
 		System.out.println(zahl--); // 6
 		System.out.println(--zahl); // 5
-		System.out.println(zahl); // 8
+		System.out.println(zahl); //
 
 	}
 
