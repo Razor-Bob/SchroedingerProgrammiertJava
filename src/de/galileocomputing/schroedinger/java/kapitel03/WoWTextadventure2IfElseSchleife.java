@@ -23,7 +23,7 @@ public class WoWTextadventure2IfElseSchleife {
 				nordenZähler++;
 				if(!kroneGefunden && nordenZähler == 4) {
 					System.out.println("Du findest einen Schatz.");
-					final int breite = 17; // nur ungerade Zahlen sind erlaubt
+					final int breite = 25; // nur ungerade Zahlen sind erlaubt
 					final int haelfteBreite = (breite-1)/2;
 					final int hoehe = haelfteBreite;
 					final int letzteReihe = hoehe-1;
